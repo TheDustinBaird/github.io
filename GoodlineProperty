@@ -1,1 +1,52 @@
-git clone https://github.com/TheDustinBaird/TheDustinBaird.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Goodline Moab Getaway</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Goodline</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="availability.html">Availability</a></li>
+          <li><a href="book.html">Book Now</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Relax. Ride. Recharge.</h2>
+      <p>Welcome to Goodline – your adventure basecamp in Moab, Utah.</p>
+      <a href="book.html" class="btn-primary">Book Your Stay</a>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="container">
+      <h3>Why Stay With Us?</h3>
+      <ul class="feature-list">
+        <li>🛏 3 Bedrooms / 3 Baths – sleeps up to 8 guests</li>
+        <li>🚴‍♂️ Private bike repair station & huge garage</li>
+        <li>🏊‍♀️ Access to 2 pools and a hot tub</li>
+        <li>🚙 Ample parking for trailers and off-road rigs</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Goodline Moab Getaway. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
